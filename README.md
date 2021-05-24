@@ -2,12 +2,12 @@
 
 By using Fiberhome OLT Template you have to do some configurations at your olt, in order to get ONU's Opt. Signals:
 
-  RP700 Firmware:
+  - RP700 Firmware:
     - Admin# cd device
     - Admin\device# set mib performance switch enable
     - Admin# cd gponlinecard
     - Admin\gponlinecard# set pon_traffic_sts switch traffic enable 5 0
-  RP1000/1200 Firmware:
+  - RP1000/1200 Firmware:
     - Admin# cd maintenance
     - Admin\maintenance# cd performance
     - Admin\maintenance\performance# set mib performance switch enable
