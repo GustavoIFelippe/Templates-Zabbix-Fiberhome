@@ -1,4 +1,9 @@
 # Templates-Zabbix-Fiberhome
+Functionalities:
+  - Resources by slot.
+  - Traffic per PON and per Interfaces.
+  - Individual ONU's Optical Signal.
+  - ONU Count.
 
 By using Fiberhome OLT Template you have to do some configurations at your olt, in order to get ONU's Opt. Signals:
 
