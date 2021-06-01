@@ -6,6 +6,7 @@ Functionalities:
   - ONU Count by slot and by chassis;
   - ONU to PON leght (rtt);
   - PON Opt. Module Health (Temperature, Voltage, Current).
+  - Now fully SNMP, thanks to marcodefreitas@gmail.com.
 
 By using Fiberhome OLT Template you have to do some configurations at your olt, in order to get ONU's Opt. Signals:
 
