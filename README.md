@@ -2,6 +2,7 @@
 
 Contributions and Greetings:
 
+  - Edenilson Perin
   - Carlos Eduardo da Silva Ferreira - ferreiraecarlos@gmail.com
   - Marco de Freitas - marcodefreitas@gmail.com
   - Henrique Montanari
