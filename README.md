@@ -1,4 +1,12 @@
 # Templates-Zabbix-Fiberhome
+
+Contributions and Greetings:
+
+  Carlos Eduardo da Silva Ferreira - ferreiraecarlos@gmail.com
+  Marco de Freitas - marcodefreitas@gmail.com
+  Henrique Montanari
+  
+
 Functionalities:
   - Resources by slot;
   - Traffic per PON and per Interfaces;
