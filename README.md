@@ -3,7 +3,7 @@
 Contributions and Greetings:
 
   - Edenilson Perin
-  - Carlos Eduardo da Silva Ferreira - ferreiraecarlos@gmail.com
+  - Carlos Eduardo da Silva Ferreira - ferreiraecarlos@gmail.com - Github:https://github.com/ferreiraecarlos
   - Marco de Freitas - marcodefreitas@gmail.com
   - Henrique Montanari
   
